@@ -24,7 +24,7 @@ samples, guidance on mobile development, and a full API reference.
 ## links de refencias
 - https://codesinsider.com/flutter-appbar-example-tutorial/
 - https://api.flutter.dev/flutter/material/AppBar-class.html
-## Youtube lniks
+## Youtube links
 - https://youtu.be/U_Yiw4tjeQw?feature=shared
 - https://www.youtube.com/watch?v=WOvj84xq_fc
 
